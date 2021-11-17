@@ -30,7 +30,7 @@
 [>] OPCION 3 SE INTRODUCCE IP A ESCANEAR LOS PUERTOS ACTIVOS EN LA RED
 ```
 # Practica 3
-<br>Script creado en bash que ejecuta un escaneo de equipos activos en la red y contiene un scaner de puertos abiertos y una opcion para extraer el sistema operativo, hostname y nombre de usuario del dispositivo en el que se este ejecutando, uso:</br>
+<br>Script creado en bash que ejecuta un escaneo de equipos activos en la red y contiene un scanner de puertos abiertos y una opcion para extraer el sistema operativo, hostname y nombre de usuario del dispositivo en el que se este ejecutando, uso:</br>
 ```
 [>] SE EJECUTA EL SCRIPT
 [>] ESCOGEMOS UNA OPCION DEL MENU 1 - 4
